@@ -63,4 +63,3 @@ jobs:
         id: deploy-to-webapp
         with:
           app-name: 'CloudigyChat'
-          slot-name: 'Production'

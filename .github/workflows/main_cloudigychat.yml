@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'CloudigyChat'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B1C489E24CF643DCB35517FBA560CF9E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_06B6776733744AC8943A8C47CE7E8EFC }}

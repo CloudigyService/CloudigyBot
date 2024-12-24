@@ -42,7 +42,7 @@ class _UiSettings(BaseSettings):
     )
 
     title: str = "Cloudigy"
-    logo: Optional[str] = None
+    logo: Optional[str] = "/Cloudigy.ico"
     chat_logo: Optional[str] = None
     chat_title: str = "Begin met chatten"
     chat_description: str = "Goedemiddag Dennis"

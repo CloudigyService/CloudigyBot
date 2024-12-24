@@ -5,7 +5,7 @@
         "subscription_id": "34ac5080-ccdf-4aac-a74f-9832224c7428",
         "resource_group": "rg_TextToSpeech",
         "search_service_name": "<search service name to use or create>",
-        "index_name": "Cloudigy",
+        "index_name": "",
         "chunk_size": 1024,
         "token_overlap": 128,
         "semantic_config_name": "default",

@@ -42,11 +42,11 @@ class _UiSettings(BaseSettings):
     )
 
     title: str = "Cloudigy"
-    logo: Optional[str] = "/Cloudigy.ico"
+    logo: Optional[str] = "/favicon.ico"
     chat_logo: Optional[str] = None
     chat_title: str = "Begin met chatten"
     chat_description: str = "Goedemiddag Dennis"
-    favicon: str = "/Cloudigy.ico"
+    favicon: str = "/favicon.ico"
     show_share_button: bool = True
     show_chat_history_button: bool = True
 
